@@ -9,7 +9,7 @@ python-dotenv==1.0.1
 
 # Transformation
 dbt-core==1.11.6
-dbt-bigquery
+dbt-bigquery==1.11.0
 
 # Visualization
-streamlit==1.54.0
+streamlit==1.8.0
