@@ -1,0 +1,15 @@
+# Data Generation
+Faker==30.1.0
+pandas==3.0.1
+
+# Streaming & Infrastructure
+confluent-kafka==2.13.0
+google-cloud-bigquery==3.40.1
+python-dotenv==1.0.1
+
+# Transformation
+dbt-core==1.11.6
+dbt-bigquery
+
+# Visualization
+streamlit==1.54.0
